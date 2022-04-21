@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TawabG
 - 👀 I’m interested in online machine learning
 - 🎓 Currently studying MSc Data Science 
-- 💻 Freelance Web Developer
+- 💻 Freelance Web Developer at https://tawab.nl/
 - 📫 Hallo@tawab.nl
 
 <!---
